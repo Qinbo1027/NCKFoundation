@@ -1,0 +1,22 @@
+{
+  "name": "NCKFoundation",
+  "version": "1.0",
+  "summary": "A short description of NCKFoundation.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Qinbo1027/NCKFoundation",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "2654390703@qq.com": "2654390703@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/Qinbo1027/NCKFoundation",
+    "tag": "1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "NCKFoundation/Classes/*.{h,m}"
+}
