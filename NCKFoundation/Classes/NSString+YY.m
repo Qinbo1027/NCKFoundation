@@ -10,7 +10,7 @@
 @implementation NSString (YY)
 +(BOOL) isYes:(NSString *)str
 {
-    if ([str isEqualToString:@""]) {
+    if ([str isEqualToString:@""]||str.length==0) {
         return NO;
     }
     
